@@ -127,6 +127,11 @@ Content-Type: application/json
 
 ## Model Information
 
+<img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/7c4628db-6def-4c01-a0ef-7040b4f5a993" />
+
+<img width="1895" height="907" alt="image" src="https://github.com/user-attachments/assets/d8483340-4cd3-40fb-803e-8493e6af6c4d" />
+
+
 The AI model is a neural network trained on a dataset of 1000+ patient records with:
 - **Input Features**: Age, gender, symptoms, severity, confidence
 - **Architecture**: Dense layers with dropout regularization
